@@ -1,5 +1,25 @@
 # ELKminiProject
 FISA학생들의 스터디 활성화를 위한 데이터분석 미니 프로젝트입니다
+<table>
+  <tr>
+    <th>이용훈</th>
+    <th>홍혜원</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/dldydgns.png" width="120" /><br/>
+      <a href="https://github.com/dldydgns">@이용훈</a>
+    </td>
+    <td align="center">
+      <img src="https://github.com/hyewon8245.png" width="120" /><br/>
+      <a href="https://github.com/hyewon8245">@홍혜원</a>
+    </td>
+  </tr>
+</table>
+
+
+
+
 
 ## 🔍 ELK 스터디 개요: 출석 및 취향 기반 데이터 분석
 
